@@ -1,0 +1,50 @@
+
+.links {
+    text-align: right;
+
+}
+
+#images {
+    width: 375;
+}
+
+.hipervinculos {
+    padding: 6px
+}
+
+.busqueda {
+    text-align: center;
+}
+
+#barra_busqueada {
+ border-radius: 5px;
+
+}
+
+.columnaizq {
+    width: 15%;
+    float: left;
+    text-align: left;
+
+}
+
+.searchbar {
+    width: 35%;
+    float: center;
+
+}
+.help {
+    width: 40%;
+    float: right;
+    text-align: left;
+}
+
+.lineamerca {
+    display: block;
+    height: 30;
+}
+
+#busquedaadvanced {
+    background-color: #4d90fe;
+    color: white;
+}
